@@ -38,7 +38,6 @@ testing libraries to build on. It is used here to test the Sinatra-Rack based we
 Reference:
 
           https://rubygems.org/gems/rack-test
-
           https://learn.co/lessons/sinatra-shotgun-server
 
 **Question**
