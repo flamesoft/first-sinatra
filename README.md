@@ -1,6 +1,7 @@
 This is the homework for trying Sinatra in CraftAcademy.
 
 **Question**
+
 Google each and every one of the gems in the :development, :test group of your Gemfile. Try the following searches:
 ruby gem capybara
 ruby launchy gem
@@ -8,7 +9,8 @@ etc...What are these gems and what do they do? Can you see why we have included 
 Write a short description with an explanation of each gem and add it to this small
 projects README.
 
-**Answer:**
+**Answer**
+
 gem 'sinatra' - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 We use this to get all the support in the framework for building a web application.
 
@@ -37,10 +39,12 @@ Reference: https://rubygems.org/gems/rack-test
            https://learn.co/lessons/sinatra-shotgun-server
 
 **Question**
+
 What can you say about the minimum requirements of a HTML-5 page? What needs
 to be there and why?
 
-**Answer:**
+**Answer**
+
 The minimum requirements of a HTML-5 page is like this:
 ```
 <!DOCTYPE html>
@@ -60,6 +64,7 @@ by HTML5 documents.
 **Question**
 When we speak about assets, what do we mean?
 
-**Answer:**
+**Answer**
+
 Assets is a folder where all the stylesheets, images, fonts, and javascript files
 used for the website locates.
