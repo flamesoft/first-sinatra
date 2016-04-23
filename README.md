@@ -35,8 +35,11 @@ gem 'rack-test' - It is a small, simple testing API for Rack apps.
 It can be used on its own or as a reusable starting point for Web frameworks and
 testing libraries to build on. It is used here to test the Sinatra-Rack based web application.
 
-Reference: https://rubygems.org/gems/rack-test
-           https://learn.co/lessons/sinatra-shotgun-server
+Reference:
+
+          - https://rubygems.org/gems/rack-test
+
+          - https://learn.co/lessons/sinatra-shotgun-server
 
 **Question**
 
@@ -56,15 +59,16 @@ The minimum requirements of a HTML-5 page is like this:
   This is a webpage.
 </body>
 ```
-<!DOCTYPE html> tells the browser about the version of HTML. This line is required
+`<!DOCTYPE html>` tells the browser about the version of HTML. This line is required
 by HTML5 documents.
-<head></head> defines the charset which is UTF-8, the title of the webpage.
-<body></body> defines the content which shows on the webpage.
+`<head></head>` defines the charset which is UTF-8, the title of the webpage.
+`<body></body>` defines the content which shows on the webpage.
 
 **Question**
+
 When we speak about assets, what do we mean?
 
 **Answer**
 
 Assets is a folder where all the stylesheets, images, fonts, and javascript files
-used for the website locates.
+used for the website locate.
