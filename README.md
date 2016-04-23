@@ -36,8 +36,9 @@ It can be used on its own or as a reusable starting point for Web frameworks and
 testing libraries to build on. It is used here to test the Sinatra-Rack based web application.
 
 Reference:
-  https://rubygems.org/gems/rack-test
-  https://learn.co/lessons/sinatra-shotgun-server
+  [https://rubygems.org/gems/rack-test](https://rubygems.org/gems/rack-test)
+
+  [https://learn.co/lessons/sinatra-shotgun-server](https://rubygems.org/gems/rack-test)
 
 **Question**
 
