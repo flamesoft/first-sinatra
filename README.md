@@ -37,9 +37,9 @@ testing libraries to build on. It is used here to test the Sinatra-Rack based we
 
 Reference:
 
-          - https://rubygems.org/gems/rack-test
+          https://rubygems.org/gems/rack-test
 
-          - https://learn.co/lessons/sinatra-shotgun-server
+          https://learn.co/lessons/sinatra-shotgun-server
 
 **Question**
 
@@ -52,17 +52,19 @@ The minimum requirements of a HTML-5 page is like this:
 ```
 <!DOCTYPE html>
 <head>
-  <meta charset="utf-8">
-  <title>My Sinatra App</title>
 </head>
 <body>
   This is a webpage.
 </body>
+
 ```
 `<!DOCTYPE html>` tells the browser about the version of HTML. This line is required
 by HTML5 documents.
-`<head></head>` defines the charset which is UTF-8, the title of the webpage.
-`<body></body>` defines the content which shows on the webpage.
+
+`<head></head>` is the container for all the head elements. E.g. the charset which is used
+for the web page, the title of the webpage. It can be empty.
+
+`<body></body>` is the container for the content which shows on the webpage.
 
 **Question**
 
