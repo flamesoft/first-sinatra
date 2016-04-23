@@ -1,6 +1,6 @@
 This is the homework for trying Sinatra in CraftAcademy.
 
--** Google each and every one of the gems in the :development, :test group of your Gemfile. Try the following searches:
+** Google each and every one of the gems in the :development, :test group of your Gemfile. Try the following searches:
 ruby gem capybara
 ruby launchy gem
 etc...What are these gems and what do they do? Can you see why we have included them?
@@ -35,11 +35,12 @@ testing libraries to build on. It is used here to test the Sinatra-Rack based we
 Reference: https://rubygems.org/gems/rack-test
            https://learn.co/lessons/sinatra-shotgun-server
 
--** What can you say about the minimum requirements of a HTML-5 page? What needs
+** What can you say about the minimum requirements of a HTML-5 page? What needs
 to be there and why?**
 
 **Answer:**
 The minimum requirements of a HTML-5 page is like this:
+```
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
@@ -48,13 +49,13 @@ The minimum requirements of a HTML-5 page is like this:
 <body>
   This is a webpage.
 </body>
-
+```
 <!DOCTYPE html> tells the browser about the version of HTML. This line is required
 by HTML5 documents.
 <head></head> defines the charset which is UTF-8, the title of the webpage.
 <body></body> defines the content which shows on the webpage.
 
--** When we speak about assets, what do we mean?**
+** When we speak about assets, what do we mean?**
 
 **Answer:**
 Assets is a folder where all the stylesheets, images, fonts, and javascript files
